@@ -55,7 +55,7 @@ body {
   }
   
   #hero .download-btn + .download-btn {
-    margin-left: 100px;
+    margin-left: 70px;
   }
   
   @media (max-width: 100px) {
